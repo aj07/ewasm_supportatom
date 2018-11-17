@@ -1,0 +1,25 @@
+{
+  "name": "language-ewasm",
+  "version": "1.0.0",
+  "description": "ewasm language support in atom",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aj07/ewasm_supportatom.git"
+  },
+  "keywords": [
+    "ewasm",
+    "ethereum",
+    "ethereum-webassembly",
+    "evm"
+  ],
+  "author": "Ankit Raj <ankitblockchain3@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aj07/ewasm_supportatom/issues"
+  },
+  "homepage": "https://github.com/aj07/ewasm_supportatom#readme"
+}
